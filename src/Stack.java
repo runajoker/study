@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/**
+ *  @brief stack size 10 structrue code 
+ *  @author SangHoon Kim(github.com/runajoker)
+ */
 public class Stack {
 	private static int[] stack;
 	private static final int STACKSIZE = 10;
